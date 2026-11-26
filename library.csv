@@ -1,0 +1,17 @@
+Title,Category,Price,Quantity,Rating
+Python 101,Programming,300,10,4|5
+AI Intro,Technology,150,3,5
+Data Science 201,Programming,200,4,4
+Machine Learning,Technology,250,2,4.5|5
+Deep Learning,Technology,300,1,1|4
+Fictional Universe,Fiction,80,6,5|1
+Mystery of the Old House,Fiction,90,5,4|5
+Children Stories,Kids,50,10,5
+Math for Kids,Kids,60,8,4
+Science Experiments,Science,110,3,3
+Astronomy Basics,Science,130,2,
+History of Egypt,History,100,4,5
+World War II,History,120,2,
+Cooking for Beginners,Cooking,70,5,4
+Baking Essentials,Cooking,90,3,5
+Something ,Something,999,10,3
