@@ -1,0 +1,5 @@
+# generated at first run / on password change - never commit
+admin_password.txt
+
+__pycache__/
+*.pyc
